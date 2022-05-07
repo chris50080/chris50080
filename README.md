@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chris50080
 - 👀 I’m interested in making games and learning coding for game engines
-- 🌱 I’m currently learning godot and gdevelop (for prototyping)
+- 🌱 I’m currently learning rust and bevy
 - 💞️ I’m looking to collaborate on nothing as of yet
 - 📫 How to reach me @ chris50080@gmail.com
 
