@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Garay
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning C and GO
+- 👀 I’m interested in making games and useful apps
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on nothing as of yet
 - 📫 How to reach me @ chris50080@gmail.com
 
